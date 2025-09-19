@@ -4,13 +4,7 @@
 
 #pragma comment(lib, "winhttp.lib")
 
-/*
-* Testing out my new proxy tool
-* TODO: remember to change the IP when deploying!
-* KCSC{coding_and_opsec_is_hard}
-*/
-
-const char my_private_ip[] = "10.13.37.1";
+const char testing_ip[] = "3.167.2.92";
 
 int main()
 {
