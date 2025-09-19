@@ -6,6 +6,10 @@
 
 const char testing_ip[] = "3.167.2.92";
 
+/*
+* Sometimes I wonder how stuff works
+*
+*/
 int main()
 {
     HINTERNET h = WinHttpOpen(L"Opera/1.0", WINHTTP_ACCESS_TYPE_DEFAULT_PROXY, 0, 0, 0);
